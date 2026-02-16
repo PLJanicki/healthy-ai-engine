@@ -16,13 +16,13 @@
 
 <!-- List the key changes in this PR. -->
 
-- 
+-
 
 ## How to Test
 
 <!-- Describe how a reviewer can verify this change works. -->
 
-1. 
+1.
 
 ## Checklist
 
