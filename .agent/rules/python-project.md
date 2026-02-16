@@ -7,7 +7,7 @@ globs: ["**/*.py", "**/pyproject.toml"]
 
 ## Project Overview
 
-**healthy-ai-engine** is an open-source AI engine for high-performance fitness tracking and personalized health intelligence. All code should reflect production-quality standards appropriate for a health/fitness domain.
+**healthy-ai-engine** is an open-source AI engine for fitness tracking and health intelligence — built to explore and test **Continuous AI** workflows. The health/fitness domain provides a realistic context for AI-driven development pipelines. All code should reflect production-quality standards.
 
 ## Python Version & Environment
 
